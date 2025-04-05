@@ -46,7 +46,7 @@ This project analyzes Apple sales data using SQL and Power BI. It focuses on sal
 
 ## 🖼️ ER Diagram
 
-![Apple Sales ER Diagram](Path_to_ER_Diagram.png)
+![Apple Sales ER Diagram](APPLE_SALES_ANALYSIS/SQL/ER_DIAGRAM.png)
 
 ---
 
